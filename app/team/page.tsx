@@ -7,25 +7,25 @@ const team = [
     name: "Niilesh Chavvan",
     role: "Founder & Creative Director",
     bio: "With 15+ years of experience in interior design, Niilesh leads our creative vision and ensures every project exceeds expectations.",
-    image: "/team-image/niilesh.jpeg",
+    image: "/team-image/niilesh.png",
   },
   {
     name: "Smita Kamble",
     role: "Senior Interior Designer",
     bio: "Smita specializes in residential spaces and brings innovative design solutions with a keen eye for detail and aesthetics.",
-    image: "/team-image/smita.jpeg",
+    image: "/team-image/smita.png",
   },
   {
     name: "Manish Kamble",
     role: "Senior Interior Designer & Execution",
     bio: "Manish ensures smooth project execution by overseeing designs, timelines, budgets, and on-site coordination while maintaining high standards of quality and client satisfaction.",
-    image: "/team-image/manish.jpeg",
+    image: "/team-image/manish.png",
   },
   {
     name: "Santosh Vali",
     role: "Interior Designer & Project Co-ordinator",
     bio: "Santosh combines creative interior design with efficient project coordination to bring ideas to life, ensuring every project is well-planned, smoothly executed, and tailored to the client’s needs.",
-    image: "/team-image/santosh.jpeg",
+    image: "/team-image/santosh.png",
   },
 ]
 
