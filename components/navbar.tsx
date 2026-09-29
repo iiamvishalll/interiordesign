@@ -41,7 +41,7 @@ export function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-10">
         <a href="/" className="flex items-center gap-3 leading-none">
           <img
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202026-05-07%20at%2012.17.44%20PM%20-%20Copy-xdcLZBSgYSAwX97QoIg7vyaewuQNQY.jpeg"
+            src="/images/shashwatti-logo-nav.jpg"
             alt="Shashwatti Interior logo"
             className="size-10 object-cover"
           />
