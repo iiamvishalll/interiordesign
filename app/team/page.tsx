@@ -4,28 +4,28 @@ import Image from "next/image"
 
 const team = [
   {
-    name: "Raj Sharma",
+    name: "Niilesh Chavvan",
     role: "Founder & Creative Director",
-    bio: "With 15+ years of experience in interior design, Raj leads our creative vision and ensures every project exceeds expectations.",
-    image: "/images/team-director.png",
+    bio: "With 15+ years of experience in interior design, Niilesh leads our creative vision and ensures every project exceeds expectations.",
+    image: "/team-image/niilesh.jpeg",
   },
   {
-    name: "Priya Patel",
+    name: "Smita Kamble",
     role: "Senior Interior Designer",
-    bio: "Priya specializes in residential spaces and brings innovative design solutions with a keen eye for detail and aesthetics.",
-    image: "/images/team-designer.png",
+    bio: "Smita specializes in residential spaces and brings innovative design solutions with a keen eye for detail and aesthetics.",
+    image: "/team-image/smita.jpeg",
   },
   {
-    name: "Anjali Singh",
-    role: "Project Coordinator",
-    bio: "Anjali ensures seamless project execution by managing timelines, budgets, and client communication throughout every phase.",
-    image: "/images/team-coordinator.png",
+    name: "Manish Kamble",
+    role: "Senior Interior Designer & Execution",
+    bio: "Manish ensures smooth project execution by overseeing designs, timelines, budgets, and on-site coordination while maintaining high standards of quality and client satisfaction.",
+    image: "/team-image/manish.jpeg",
   },
   {
-    name: "Vikram Desai",
-    role: "Senior Architect & Designer",
-    bio: "Vikram combines architectural expertise with interior design principles to create functional and stunning spaces.",
-    image: "/images/team-architect.png",
+    name: "Santosh Vali",
+    role: "Interior Designer & Project Co-ordinator",
+    bio: "Santosh combines creative interior design with efficient project coordination to bring ideas to life, ensuring every project is well-planned, smoothly executed, and tailored to the client’s needs.",
+    image: "/team-image/santosh.jpeg",
   },
 ]
 
