@@ -8,9 +8,9 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: 'SHASWATTI | Premium Interior Design in Vasai-Virar',
+  title: 'SHASHWATTI | Premium Interior Design in Mumbai & Thane',
   description:
-    'Premium interior design solutions in Vasai-Virar. We turn your vision of a perfect home or office into a stunning reality.',
+    'Premium interior design solutions in Mumbai & Thane. We turn your vision of a perfect home or office into a stunning reality.',
   icons: {
     icon: [
       {
