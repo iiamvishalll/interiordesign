@@ -13,7 +13,7 @@ const team = [
     name: "Smita Kamble",
     role: "Senior Interior Designer",
     bio: "Smita specializes in residential spaces and brings innovative design solutions with a keen eye for detail and aesthetics.",
-    image: "/team-image/smita.png",
+    image: "/team-image/smita-new.png",
   },
   {
     name: "Manish Kamble",
