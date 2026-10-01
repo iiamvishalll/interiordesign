@@ -77,7 +77,7 @@ export function FeaturedProjects() {
 
         <div className="mt-14 text-center">
           <a
-            href="https://portfolio.shaswatti.in"
+            href="https://drive.google.com/drive/folders/1XU36DOis6Xk_WES8nmfSGjRJUE9qxZwG?usp=drive_link"
             target="_blank"
             rel="noreferrer"
             className="inline-block bg-foreground px-8 py-4 text-sm font-semibold tracking-wide text-white transition-colors hover:bg-brown"
