@@ -18,7 +18,7 @@ export function Cta() {
             ENQUIRE NOW
           </a>
           <a
-            href="https://wa.me/919819449084"
+            href="https://wa.me/919769235783"
             className="bg-[#25D366] px-8 py-4 text-sm font-semibold tracking-wide text-white transition-colors hover:brightness-110"
           >
             WHATSAPP CHAT
