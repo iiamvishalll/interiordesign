@@ -74,7 +74,7 @@ export function Navbar() {
             </a>
           ))}
           <a
-            href="#contact"
+            href="/contact"
             className="bg-brown px-6 py-3 text-sm font-semibold tracking-wide text-white transition-colors hover:bg-brown-dark"
           >
             GET QUOTE
