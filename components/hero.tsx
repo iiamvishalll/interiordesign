@@ -26,7 +26,7 @@ export function Hero() {
 
         <div className="mt-10 flex flex-col gap-4 sm:flex-row">
           <a
-            href="https://portfolio.shaswatti.in"
+            href="https://drive.google.com/drive/folders/1XU36DOis6Xk_WES8nmfSGjRJUE9qxZwG?usp=drive_link"
             target="_blank"
             rel="noreferrer"
             className="bg-brown px-8 py-4 text-center text-sm font-semibold tracking-wide text-white transition-colors hover:bg-brown-dark"
@@ -34,7 +34,7 @@ export function Hero() {
             VIEW PORTFOLIO
           </a>
           <a
-            href="https://wa.me/919819449084"
+            href="https://wa.me/919769235783"
             className="border border-white/70 px-8 py-4 text-center text-sm font-semibold tracking-wide text-white transition-colors hover:bg-white hover:text-foreground"
           >
             WHATSAPP US
