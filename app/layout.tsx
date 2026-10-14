@@ -21,12 +21,8 @@ export const metadata: Metadata = {
         url: '/shashwatti-meta-logo.jpg',
         media: '(prefers-color-scheme: dark)',
       },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
     ],
-    apple: '/apple-icon.png',
+    apple: '/shashwatti-meta-logo.jpg',
   },
 }
 
